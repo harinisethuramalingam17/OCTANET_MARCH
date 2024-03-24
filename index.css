@@ -1,0 +1,19 @@
+/**********************************/
+/* Styling Main content Section 1 */
+/**********************************/
+#welcome
+{ overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+}
+		
+#welcome .title{
+	margin-top: 20px;
+	padding: 20px;
+	text-align: center;
+}
+
+#welcome p{
+	margin-bottom: 40px;
+	text-align: center;
+}
